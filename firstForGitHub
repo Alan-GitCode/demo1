@@ -5,31 +5,32 @@
 ##### T5
 ###### T6
 
-
 **Fat**
 *I*
 ***FatI***
-~~Wrone~~
-```code```
-------------
->from a
--a
--aa
--aaa
-[Google] https:......
----------------------
+~~Wrong~~
+
+`code`
+
+---
+
+> from a
+
+- a
+- aa
+- aaa
+
+[Google](https://google.com)
+
+---
+
 | Name | Age |
-|------|----|
-| Tom | 18 |
-| Amy | 20 |
+|------|----:|
+| Tom  | 18  |
+| Amy  | 20  |
 
-
-
-
-
-
--[]  finish
--[x] todo
+- [ ] finish
+- [x] todo
 
 :smile:
 :rocket:
