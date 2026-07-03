@@ -1,6 +1,6 @@
 # I think that Bloxd.io might make a group to prevent hackers
-#- Everyone **hates** hackers *(MAYBE)*
-#- please please please please please please
+-# Everyone **hates** hackers *(MAYBE)*
+-# please please please please please please
 
 
 ### find some people to check the hackers, They can watch in diffirent lobbies  
@@ -11,7 +11,7 @@
 
 
 ### The report system is really terrible
-#- don't use discord anymore QAQ
+-# don't use discord anymore QAQ
   - Devs might make a data bank to store the the reports
   - ```{"Reporter":"...","Suspect": "..."} ```
   - and that group can saw and check it.
